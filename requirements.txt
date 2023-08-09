@@ -1,0 +1,9 @@
+opencv-python
+Pillow
+numpy
+einops
+torch
+PyYAML
+onnx
+matplotlib
+pywin32
