@@ -1,0 +1,6 @@
+Pillow
+numpy
+PyYAML
+onnx
+onnxruntime
+pywin32

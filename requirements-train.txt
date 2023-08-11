@@ -1,0 +1,6 @@
+Pillow
+numpy
+einops
+torch
+PyYAML
+onnx
